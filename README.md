@@ -1,3 +1,6 @@
 # Chatbot
-Chat-bot is an application of the AI which uses Natural language processing and Natural language Generation to predict the answer outcome
-we uses General Encoder-Decoder seq2seq model to generate the text backend with tensorflow keras
+A chatbot is an artificial intelligence application that employs natural language processing and natural language generation to predict the outcome of a question. To produce the text backend using tensorflow keras, Here we used a general encoder-decoder seq2seq model.
+
+### Dataset : 
+ * https://github.com/shubham0204/Dataset_Archives/blob/master/chatbot_nlp.zip?raw=true
+ * 
